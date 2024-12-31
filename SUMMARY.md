@@ -19,6 +19,7 @@
 * [InvisibleFrames](plugins/invisibleframes.md)
 * [PatPatPat](plugins/patpatpat.md)
 * [totem of the void (PurpurExtras)](plugins/totem-of-the-void-purpurextras.md)
+* [voicechat](plugins/voicechat.md)
 * [server health](plugins/server-health.md)
 
 ## wiki maintenance <a href="#maintenancemaintenancemaintenancemaintenancemaintenance" id="maintenancemaintenancemaintenancemaintenancemaintenance"></a>

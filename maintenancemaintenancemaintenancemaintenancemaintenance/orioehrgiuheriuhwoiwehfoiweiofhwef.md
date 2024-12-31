@@ -22,6 +22,8 @@ pl:
 * [ ] CoreProtect,DiscordSRV,InteractiveChat,InteractiveChatDiscordSrvAddon?
 * [ ] InvisibleFrames
 * [ ] PatPatPat
+* [ ] totem of the void (PurpurExtras)
+* [ ] voicechat
 * [ ] server health
 
 
