@@ -1,11 +1,10 @@
 # Table of contents
 
-* [Welcome](README.md)
+## http
 
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [что такое http](README.md)
+* [правила сервера](http/quickstart.md)
+* [плагины](http/publish-your-docs.md)
 
 ## Basics
 
