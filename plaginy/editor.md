@@ -1,38 +1,27 @@
 ---
-icon: pen-to-square
+icon: chair
 ---
 
-# Editor
+# gsit
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+### позволяет игрокам сидеть на блоках и некоторые прочие действия
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
+использование:
 
-### Writing content
+* `/sit` - сесть на блок
+* `/bellyflop` - лечь на живот
+* `/crawl` - ползти
+* `/spin` - крутиться
+* `/lay` - лечь на спину
+* пкм пустой рукой по игроку - сесть на игрока
+* shift на игроке/с игроком на голове - сбросить/слезть
 
-GitBook offers a range of block types for you to add to your content inline — from simple text and tables, to code blocks and more. These elements will make your pages more useful to readers, and offer extra information and context.
+<details>
 
-Either start typing below, or press `/` to see a list of the blocks you can insert into your page.
+<summary>галерея</summary>
 
-### Add a new block
+![](<../.gitbook/assets/image (6).png>)
 
-{% stepper %}
-{% step %}
-### Open the insert block menu
+![](<../.gitbook/assets/image (7).png>)
 
-Press `/` on your keyboard to open the insert block menu.
-{% endstep %}
-
-{% step %}
-### Search for the block you need&#x20;
-
-Try searching for “Stepper”, for exampe, to insert the stepper block.
-{% endstep %}
-
-{% step %}
-### Insert and edit your block
-
-Click or press Enter to insert your block. From here, you’ll be able to edit it as needed.
-{% endstep %}
-{% endstepper %}
-
+</details>

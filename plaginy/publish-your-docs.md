@@ -1,5 +1,5 @@
 ---
-icon: globe-pointer
+icon: helmet-battle
 ---
 
 # hidden armor
@@ -8,8 +8,20 @@ icon: globe-pointer
 
 использование:
 
-`/togglearmor`
+`/togglearmor` - переключить видимость брони
 
 {% hint style="info" %}
 кожаная броня не может быть скрыта во избежание проблем с рыхлым снегом
 {% endhint %}
+
+<details>
+
+<summary>галерея</summary>
+
+<img src="../.gitbook/assets/image (1).png" alt="" data-size="original">
+
+![](<../.gitbook/assets/image (2).png>)
+
+![](<../.gitbook/assets/image (5).png>)
+
+</details>
