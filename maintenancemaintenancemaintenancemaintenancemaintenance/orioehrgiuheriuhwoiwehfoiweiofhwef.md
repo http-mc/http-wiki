@@ -13,17 +13,18 @@ pl:
 
 * [ ] write about more plugins maybe?
 * [ ] write more about:
-* [ ] graves
+* [x] graves
 * [ ] realistic seasons
 * [ ] skinsrestorer
 * [ ] limboauth
-* [ ] TreasureMapsPlus
+* [ ] treasuremapsplus
 * [ ] harbor
-* [ ] CoreProtect,DiscordSRV,InteractiveChat,InteractiveChatDiscordSrvAddon?
+* [ ] coreprotect,discordsrv,Interactivechat,interactivechatdiscordsrvaddon?
 * [ ] InvisibleFrames
-* [ ] PatPatPat
-* [ ] totem of the void (PurpurExtras)
+* [ ] patpatpat
+* [ ] totem of the void (purpurextras)
 * [ ] voicechat
+* [ ] portals
 * [ ] server health
 
 

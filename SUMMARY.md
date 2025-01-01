@@ -14,12 +14,13 @@
 * [realistic seasons](plugins/realistic-seasons.md)
 * [skinsrestorer](plugins/skinsrestorer.md)
 * [limboauth](plugins/limboauth.md)
-* [TreasureMapsPlus](plugins/treasuremapsplus.md)
+* [treasuremapsplus](plugins/treasuremapsplus.md)
 * [harbor](plugins/harbor.md)
-* [InvisibleFrames](plugins/invisibleframes.md)
-* [PatPatPat](plugins/patpatpat.md)
-* [totem of the void (PurpurExtras)](plugins/totem-of-the-void-purpurextras.md)
+* [invisibleframes](plugins/invisibleframes.md)
+* [patpatpat](plugins/patpatpat.md)
+* [totem of the void (purpurextras)](plugins/totem-of-the-void-purpurextras.md)
 * [voicechat](plugins/voicechat.md)
+* [portals](plugins/portals.md)
 * [server health](plugins/server-health.md)
 
 ## wiki maintenance <a href="#maintenancemaintenancemaintenancemaintenancemaintenance" id="maintenancemaintenancemaintenancemaintenancemaintenance"></a>
