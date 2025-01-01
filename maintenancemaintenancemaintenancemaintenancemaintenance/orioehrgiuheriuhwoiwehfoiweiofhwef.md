@@ -16,14 +16,14 @@ pl:
 * [x] graves
 * [x] realistic seasons
 * [x] skinsrestorer
-* [ ] limboauth
-* [ ] treasuremapsplus
-* [ ] harbor
+* [x] limboauth
+* [x] treasuremapsplus
+* [x] harbor
 * [ ] coreprotect,discordsrv,Interactivechat,interactivechatdiscordsrvaddon?
-* [ ] InvisibleFrames
-* [ ] patpatpat
+* [x] InvisibleFrames
+* [x] patpatpat
 * [ ] totem of the void (purpurextras)
-* [ ] voicechat
+* [x] voicechat
 * [ ] portals
 * [ ] server health
 

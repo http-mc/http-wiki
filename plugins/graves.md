@@ -1,5 +1,7 @@
 ---
 icon: tombstone
+cover: ../.gitbook/assets/image (4).png
+coverY: 0
 ---
 
 # graves
@@ -7,13 +9,3 @@ icon: tombstone
 при смерти игрока создает безопасную могилу которая существует 3 часа
 
 лимит на количество могил для одгого игрока - 18, по израсходованию лимита старые могилы будут заменены новыми
-
-<details>
-
-<summary>галерея</summary>
-
-![](<../.gitbook/assets/image (4).png>)
-
-![](<../.gitbook/assets/image (1) (1) (1).png>)
-
-</details>
