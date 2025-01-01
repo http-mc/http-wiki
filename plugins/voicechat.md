@@ -1,8 +1,22 @@
 ---
 icon: microphone
 description: войсчат
-cover: ../.gitbook/assets/d29a64a23694cd2346aabb94bea25245b7198553.png
-coverY: 201
+cover: ../.gitbook/assets/d29a64a23694cdw2346aabb94bea25245b7198553.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # voicechat
