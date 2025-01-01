@@ -18,9 +18,9 @@ layout:
     visible: true
 ---
 
-# что такое http
+# что такое http (wip)
 
-## hold the toad please!
+hold the toad please!
 
 {% hint style="info" %}
 **пожалуйста, держи жабу!**
@@ -52,13 +52,9 @@ port: `3333`
 
 </details>
 
-<details>
+## онлайн карта:
 
-<summary>online map:</summary>
-
-[`http://95.217.39.47:1488`](http://95.217.39.47:1488)
-
-</details>
+{% embed url="http://95.217.39.47:1488" fullWidth="false" %}
 
 {% hint style="info" %}
 рестарты каждый день в `06:00` am по мск (`03:00` am utc)
