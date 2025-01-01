@@ -2,9 +2,9 @@
 
 ## http
 
-* [что такое http](README.md)
-* [правила сервера](http/rules.md)
-* [персонал](http/personal.md)
+* [что такое http (wip)](README.md)
+* [правила сервера (wip)](http/rules.md)
+* [персонал (wip)](http/personal-wip.md)
 
 ## плагины <a href="#plugins" id="plugins"></a>
 
@@ -13,15 +13,15 @@
 * [graves](plugins/graves.md)
 * [realistic seasons](plugins/realistic-seasons.md)
 * [skinsrestorer](plugins/skinsrestorer.md)
-* [limboauth](plugins/limboauth.md)
-* [treasuremapsplus](plugins/treasuremapsplus.md)
-* [harbor](plugins/harbor.md)
-* [invisibleframes](plugins/invisibleframes.md)
-* [patpatpat](plugins/patpatpat.md)
-* [totem of the void (purpurextras)](plugins/totem-of-the-void-purpurextras.md)
-* [voicechat](plugins/voicechat.md)
-* [portals](plugins/portals.md)
-* [server health](plugins/server-health.md)
+* [limboauth (wip)](plugins/limboauth-wip.md)
+* [treasuremapsplus (wip)](plugins/treasuremapsplus-wip.md)
+* [harbor (wip)](plugins/harbor-wip.md)
+* [invisibleframes (wip)](plugins/invisibleframes-wip.md)
+* [patpatpat (wip)](plugins/patpatpat-wip.md)
+* [totem of the void (wip)](plugins/totem-of-the-void-wip.md)
+* [voicechat (wip)](plugins/voicechat-wip.md)
+* [portals (wip)](plugins/portals-wip.md)
+* [server health (wip)](plugins/server-health-wip.md)
 
 ## wiki maintenance <a href="#maintenancemaintenancemaintenancemaintenancemaintenance" id="maintenancemaintenancemaintenancemaintenancemaintenance"></a>
 

@@ -14,8 +14,8 @@ pl:
 * [ ] write about more plugins maybe?
 * [ ] write more about:
 * [x] graves
-* [ ] realistic seasons
-* [ ] skinsrestorer
+* [x] realistic seasons
+* [x] skinsrestorer
 * [ ] limboauth
 * [ ] treasuremapsplus
 * [ ] harbor

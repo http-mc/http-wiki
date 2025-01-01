@@ -1,6 +1,0 @@
----
-icon: crop-simple
----
-
-# InvisibleFrames
-
