@@ -4,7 +4,7 @@
 
 * [что такое http (wip)](README.md)
 * [правила сервера (wip)](http/rules.md)
-* [персонал (wip)](http/personal-wip.md)
+* [персонал](http/staff.md)
 
 ## плагины <a href="#plugins" id="plugins"></a>
 

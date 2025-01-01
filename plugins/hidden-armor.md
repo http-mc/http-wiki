@@ -1,5 +1,6 @@
 ---
 icon: helmet-battle
+description: скины
 cover: ../.gitbook/assets/image (1) (1) (1) (1).png
 coverY: 236.96
 layout:

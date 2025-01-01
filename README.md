@@ -20,19 +20,23 @@ layout:
 
 # что такое http (wip)
 
-hold the toad please!
+#### hold the toad please!
 
-{% hint style="info" %}
+{% hint style="success" %}
 **пожалуйста, держи жабу!**
 {% endhint %}
 
 http - околованильный сервер выживания minecraft
 
-maybe a litte more shall be here
-
 мир прогружен до 5k блоков по оверу, но границы ванильные
 
-## версии и айпи:
+## информация сервера:
+
+{% hint style="info" %}
+рестарты каждый день в `06:00` am по мск (UTC+03:00)
+{% endhint %}
+
+### версии и айпи:
 
 <details>
 
@@ -52,10 +56,6 @@ port: `3333`
 
 </details>
 
-## онлайн карта:
+### онлайн карта:
 
 {% embed url="http://95.217.39.47:1488" fullWidth="false" %}
-
-{% hint style="info" %}
-рестарты каждый день в `06:00` am по мск (`03:00` am utc)
-{% endhint %}

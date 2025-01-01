@@ -1,5 +1,6 @@
 ---
 icon: chair
+description: сидеть
 cover: ../.gitbook/assets/image (6).png
 coverY: -77.96923076923078
 layout:

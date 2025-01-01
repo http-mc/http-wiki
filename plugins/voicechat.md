@@ -7,11 +7,19 @@ coverY: 201
 
 # voicechat
 
+### позволяет игрокам разговаривать в майнкрафте <a href="#fabric" id="fabric"></a>
+
+***
+
+### установка: <a href="#fabric" id="fabric"></a>
+
 ### fabric[​](https://modrepo.de/minecraft/voicechat/wiki/installation#fabric) <a href="#fabric" id="fabric"></a>
 
 для fabric версии мода, вам необходимо иметь установленный [fabric loader](https://fabricmc.net/use/) на вашем клиенте
 
 затем скопируйте [fabric simple voice chat mod jar](https://modrinth.com/plugin/simple-voice-chat/versions?l=fabric) в папку модов `/mods`
+
+***
 
 ### neoforge[​](https://modrepo.de/minecraft/voicechat/wiki/installation#neoforge) <a href="#neoforge" id="neoforge"></a>
 
@@ -19,11 +27,15 @@ coverY: 201
 
 затем скопируйте [neoforge simple voice chat mod jar](https://modrinth.com/plugin/simple-voice-chat/versions?l=neoforge) в папку модов `/mods`
 
+***
+
 ### forge[​](https://modrepo.de/minecraft/voicechat/wiki/installation#forge) <a href="#forge" id="forge"></a>
 
 для forge версии мода, вам необходимо иметь установленный [forge](https://files.minecraftforge.net/net/minecraftforge/forge/) на вашем клиенте
 
 затем скопируйте [forge simple voice chat mod jar](https://modrinth.com/plugin/simple-voice-chat/versions?l=forge) в папку модов `/mods`
+
+***
 
 ### quilt[​](https://modrepo.de/minecraft/voicechat/wiki/installation#quilt) <a href="#quilt" id="quilt"></a>
 
