@@ -18,7 +18,7 @@ icon: helmet-battle
 
 <summary>галерея</summary>
 
-<img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original">
 
 ![](<../.gitbook/assets/image (2) (1) (1).png>)
 
