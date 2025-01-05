@@ -20,7 +20,7 @@ layout:
 
 # что такое http (wip)
 
-## hold the toad please!
+hold the toad please!
 
 {% hint style="success" %}
 **пожалуйста, держи жабу!**
