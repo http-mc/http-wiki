@@ -14,7 +14,7 @@ pl:
 * [ ] write about more plugins maybe?
 * [ ] write more about:
 * [x] graves
-* [x] realistic seasons
+* [x] realistic seasons // в каком- то из зимних событий не хватает елочных украшений (или это украшение на весь сезон?) Надо найти инфу
 * [x] skinsrestorer
 * [x] limboauth
 * [x] treasuremapsplus
