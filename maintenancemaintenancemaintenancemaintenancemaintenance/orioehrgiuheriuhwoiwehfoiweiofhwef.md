@@ -27,6 +27,12 @@ pl:
 * [ ] portals
 * [ ] server health
 
+
+
+Fixed lag issue on chunk loading A new file has been added: crops.yml Allows you to very precisely control season effects on crops Crops will need a constant light source to grow in winter The plugin now hides the temperature actionbar for a few seconds when an actionbar from another source is shown.
+
+Temperature changes: Walking in rain or snow lowers your temperature Nether portals will give off heat in the overworld and cool you down in the Nether Flying fast with an elytra will cool the player down and can be fatal in winter. Added mob temperature system Mob temperature is disabled by default since it is still experimental and could cause performance problems. A new section has been added to the temperature.yml to configure everything, more info will be up on the wiki soon.
+
 ###
 
 ###
