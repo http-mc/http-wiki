@@ -31,4 +31,4 @@ description: who made this possible
 
 **вклад в wiki:**
 
-* _**loxzdox1905**_
+* [_**loxzdox1905**_](https://t.me/Bazzan1905)
