@@ -4,6 +4,7 @@
 
 * [что такое http (wip)](README.md)
 * [правила сервера (wip)](http/rules.md)
+* [Page](http/page.md)
 * [как попасть на сервер](http/kak-popast-na-server.md)
 * [персонал](http/staff.md)
 
