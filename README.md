@@ -47,7 +47,7 @@ hold the toad please!
 
 <summary>java: 1.21.4</summary>
 
-ip: `95.217.39.47:9999`
+ip: `http.ethrne.com`
 
 </details>
 
@@ -55,7 +55,7 @@ ip: `95.217.39.47:9999`
 
 <summary>geyser/bedrock: 1.21.40 - 1.21.44 - 1.21.50 - 1.21.51</summary>
 
-ip: `95.217.39.47`
+ip: `http.ethrne.com`
 
 port: `3333`
 
