@@ -45,7 +45,7 @@ hold the toad please!
 
 <details>
 
-<summary>java: 1.21.4</summary>
+<summary>java: 1.21.5</summary>
 
 ip: `http.ethrne.com`
 
