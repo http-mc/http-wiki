@@ -16,7 +16,7 @@
 * [realistic seasons](plugins/realistic-seasons.md)
 * [skinsrestorer](plugins/skinsrestorer.md)
 * [limboauth](plugins/limboauth.md)
-* [treasuremapsplus](plugins/treasuremapsplus.md)
+* [treasuremapsplus (отключен)](plugins/treasuremapsplus.md)
 * [harbor](plugins/harbor.md)
 * [invisibleframes](plugins/invisibleframes.md)
 * [patpatpat](plugins/patpatpat.md)
