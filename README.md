@@ -53,7 +53,7 @@ ip: `http.ethrne.com`
 
 <details>
 
-<summary>geyser/bedrock: 1.21.50 - 1.21.80</summary>
+<summary>geyser/bedrock: 1.21.50 - 1.21.90</summary>
 
 ip: `http.ethrne.com`
 
