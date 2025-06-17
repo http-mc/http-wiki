@@ -1,6 +1,6 @@
 ---
-icon: user-group-crown
 description: who made this possible
+icon: user-group-crown
 ---
 
 # персонал
@@ -12,7 +12,7 @@ description: who made this possible
 
 **wiki/техадмин/владелец сервера:**
 
-* _**ethera**_
+* **ar!ane**
 
 ***
 
