@@ -12,7 +12,7 @@ icon: user-group-crown
 
 **wiki/техадмин/владелец сервера:**
 
-* **ar!ane**
+* _**ar!ane**_
 
 ***
 
