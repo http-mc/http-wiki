@@ -45,7 +45,7 @@ hold the toad please!
 
 <details>
 
-<summary>java: 1.21.5</summary>
+<summary>java: 1.21.6</summary>
 
 ip: `http.ethrne.com`
 
@@ -53,7 +53,7 @@ ip: `http.ethrne.com`
 
 <details>
 
-<summary>geyser/bedrock: 1.21.50 - 1.21.90</summary>
+<summary>geyser/bedrock: 1.21.50 - 1.21.92</summary>
 
 ip: `http.ethrne.com`
 
