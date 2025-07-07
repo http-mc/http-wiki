@@ -2,20 +2,6 @@
 icon: hand-wave
 cover: .gitbook/assets/image (3) (1).png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # что такое http (wip)
@@ -53,7 +39,7 @@ ip: `http.ethrne.com`
 
 <details>
 
-<summary>geyser/bedrock: 1.21.50 - 1.21.92</summary>
+<summary>geyser/bedrock: 1.21.70 - 1.21.93</summary>
 
 ip: `http.ethrne.com`
 
