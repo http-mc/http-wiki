@@ -39,7 +39,7 @@ ip: `http.ethrne.com`
 
 <details>
 
-<summary>geyser/bedrock: 1.21.70 - 1.21.100</summary>
+<summary>geyser/bedrock: 1.21.70 - 1.21.101</summary>
 
 ip: `http.ethrne.com`
 
