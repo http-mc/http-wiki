@@ -31,7 +31,7 @@ hold the toad please!
 
 <details>
 
-<summary>java: 1.21.7 - 1.21.8</summary>
+<summary>java: 1.21.9 - 1.21.10</summary>
 
 ip: `http.ethrne.com`
 
@@ -39,7 +39,7 @@ ip: `http.ethrne.com`
 
 <details>
 
-<summary>geyser/bedrock: 1.21.70 - 1.21.101</summary>
+<summary>geyser/bedrock: 1.21.90 - 1.21.110</summary>
 
 ip: `http.ethrne.com`
 
