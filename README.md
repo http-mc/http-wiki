@@ -35,6 +35,8 @@ hold the toad please!
 
 ip: `http.ethrne.com`
 
+proxy ip: `mexico-anxiety.gl.joinmc.link`
+
 </details>
 
 <details>
