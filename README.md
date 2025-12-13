@@ -33,7 +33,7 @@ hold the toad please!
 
 <summary>java: 1.21.9 - 1.21.10</summary>
 
-ip: `http.ethrne.com`
+ip: `http.suicide.network`
 
 proxy ip: `mexico-anxiety.gl.joinmc.link`
 
@@ -43,7 +43,7 @@ proxy ip: `mexico-anxiety.gl.joinmc.link`
 
 <summary>geyser/bedrock: 1.21.90 - 1.21.114</summary>
 
-ip: `http.ethrne.com`
+ip: `http.suicide.network`
 
 port: `3333`
 
