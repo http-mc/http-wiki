@@ -31,7 +31,7 @@ hold the toad please!
 
 <details>
 
-<summary>java: 1.21.9 - 1.21.10</summary>
+<summary>java: 1.21.11</summary>
 
 ip: `http.suicide.network`
 
