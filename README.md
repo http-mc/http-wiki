@@ -41,7 +41,7 @@ proxy ip: `mexico-anxiety.gl.joinmc.link`
 
 <details>
 
-<summary>geyser/bedrock: 1.21.90 - 1.21.114</summary>
+<summary>geyser/bedrock: 1.21.90 - 1.21.130</summary>
 
 ip: `http.suicide.network`
 
