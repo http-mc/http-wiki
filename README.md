@@ -4,7 +4,7 @@ cover: .gitbook/assets/image (3) (1).png
 coverY: 0
 ---
 
-# что такое http (wip)
+# что такое http
 
 hold the toad please!
 
