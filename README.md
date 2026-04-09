@@ -4,7 +4,7 @@ cover: .gitbook/assets/image (3) (1).png
 coverY: 0
 ---
 
-# что такое http
+# что такое http (wip)
 
 hold the toad please!
 
@@ -31,7 +31,7 @@ hold the toad please!
 
 <details>
 
-<summary>java: 1.21.11</summary>
+<summary>java: 26.1 - 26.1.2</summary>
 
 ip: `http.suicide.network`
 
@@ -41,7 +41,7 @@ proxy ip: `mexico-anxiety.gl.joinmc.link`
 
 <details>
 
-<summary>geyser/bedrock: 1.21.111 - 1.21.130</summary>
+<summary>geyser/bedrock: 1.21.130 - 1.21.132, 26.0, 26.1, 26.2, 26.3, 26.10</summary>
 
 ip: `http.suicide.network`
 
