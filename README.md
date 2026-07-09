@@ -31,7 +31,7 @@ hold the toad please!
 
 <details>
 
-<summary>java: 26.1 - 26.1.2</summary>
+<summary>java: 26.2</summary>
 
 ip: `http.suicide.network`
 
@@ -41,7 +41,7 @@ proxy ip: `mexico-anxiety.gl.joinmc.link`
 
 <details>
 
-<summary>geyser/bedrock: 1.21.130 - 1.21.132, 26.0, 26.1, 26.2, 26.3, 26.10</summary>
+<summary>geyser/bedrock: 26.0, 26.1, 26.2, 26.3, 26.10, 26.20, 26.21, 26.22, 26.23, 26.30, 26.31, 26.32</summary>
 
 ip: `http.suicide.network`
 
@@ -50,5 +50,5 @@ port: `3333`
 </details>
 
 {% hint style="info" %}
-рестарты каждый день в `06:00` am по мск (UTC+03:00)
+сервер автоматически запускается при подключении игрока и отключается при неактивности
 {% endhint %}
